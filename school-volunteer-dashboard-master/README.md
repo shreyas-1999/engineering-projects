@@ -108,8 +108,3 @@ npm run test
 |   +---index.js
 +---test
 +---package.json
-
-```
-## License
-
-The school-volunteer-dashboard is available under the [MIT license](https://tldrlegal.com/license/mit-license) | Copyright (c) 2018 Enas Elkhouly.
